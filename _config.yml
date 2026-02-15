@@ -1,0 +1,6 @@
+# Jekyll設定ファイル
+# .well-knownディレクトリをJekyllの処理から除外
+exclude:
+  - .well-known
+  - .gitignore
+  - .nojekyll
